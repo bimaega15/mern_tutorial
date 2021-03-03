@@ -1,0 +1,6 @@
+{
+    "jwtSecret": "mysecrettoken",
+    "mongoURI": "mongodb://bimaega12:bimaega12@devconnector-shard-00-00.w9uw0.mongodb.net:27017,devconnector-shard-00-01.w9uw0.mongodb.net:27017,devconnector-shard-00-02.w9uw0.mongodb.net:27017/bimaega12?ssl=true&replicaSet=atlas-45zk5s-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "githubClientId": "fd38a727bcc6c08e0e3e",
+    "githubSecret": "5d4e079d6d3372a8070146253caa2220bc93a89d"
+}
